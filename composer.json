@@ -1,0 +1,8 @@
+{
+  "name": "triplei/timer",
+  "autoload" : {
+    "psr-0" : {
+      "TripleI\\Timer": "src"
+    }
+  }
+}
