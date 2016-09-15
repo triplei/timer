@@ -1,5 +1,19 @@
 {
   "name": "triplei/timer",
+  "license": "MIT",
+  "description": "A simple code execution timing class",
+  "keywords" :["timing", "performance", "timer"],
+  "authors" : [
+    {
+      "name": "Dan Klassen",
+      "email": "dan@triplei.ca",
+      "homepage": "http://www.triplei.ca",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
   "autoload" : {
     "psr-0" : {
       "TripleI\\Timer": "src"
